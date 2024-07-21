@@ -4,6 +4,10 @@ body {
   padding: 0px;
   background-color: #000000;
   color: #ffffff;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  /*font-weight: <weight>;
+  font-style: normal;*/
 }
 header {
   height: 73px;
