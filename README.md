@@ -1,6 +1,6 @@
 Modulo1 - Desafio3
 ### Iguana Page
-Desarrollo de una pagina a partir de una maqueta entregada por un cliente.
+Desarrollo de una pagina a partir de una maqueta entregada por un cliente. Este desafio tiene la finalidad de poner a prueba el uso de las diferentes propiedades de Flexbox-CSS.
 - Tamaño de lienzo es de 1280px segun especificaciones de maqueta.
 - Iconos utilizados son de Font Awesome.
 
